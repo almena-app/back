@@ -1,0 +1,8 @@
+# python
+.venv
+
+# project
+.DS_Store
+
+# mkdocx
+site
