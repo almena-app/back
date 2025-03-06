@@ -1,7 +1,7 @@
 site_name: Almena Docs
 
 site_url: https://docs.almena.app
-repo_url: https://github.com/balsain/almena
+repo_url: https://github.com/almena-app/docs
 
 theme:
   name: material
