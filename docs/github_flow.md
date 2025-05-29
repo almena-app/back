@@ -20,10 +20,8 @@ Cada tarea o ticket deberá tener su propia rama y su propia Pull Request.
 Al finalizar la tarea , la rama se limpia, es decir será eliminada trás el mergeo de la Pull Request sobre la rama principal.
 Las ramas tienen el ciclo de vida asociada a una tarea, de reabrirse la rama s epuede crear nuevamente hasta nueva Pull Request.
 > **Nota:**
-> No se puede hacer uso de ramas para varias tareas, estó generá problemas para 
- mantener asociada la tarea en la documentación, se pierde la trazabilidad de los cambios y puede generar conflictos en el código. 
-
-
+> No se puede hacer uso de ramas para varias tareas, estó generá problemas para
+ mantener asociada la tarea en la documentación, se pierde la trazabilidad de los cambios y puede generar conflictos en el código.
 
 **Proceso recomendado usando Visual Studio Code:**
 
@@ -66,8 +64,6 @@ Las releases serán generadas automáticamente mediante GitHub Actions al hacer 
 - Al integrarse un Pull Request hacia la rama `main`, se activará automáticamente una GitHub Action.
 - Esta GitHub Action generará automáticamente una versión (tag) y publicará la release asociada con un conjunto predefinido de acciones (tests, despliegue automático, etc.).
 - Las etiquetas de versión seguirán un esquema semántico (vX.X.X) de manera automática.
-![Releases Semantic](./mockups/releases_semantic.png)
-
 
 ---
 
