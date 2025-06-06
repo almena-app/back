@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.almena.app/github_flow/</loc>
+        <lastmod>2025-06-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.almena.app/github_flow/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://docs.almena.app/es/github_flow/"/>
+    </url>
+    <url>
+        <loc>https://docs.almena.app/</loc>
+        <lastmod>2025-06-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.almena.app/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://docs.almena.app/es/"/>
+    </url>
+    <url>
+        <loc>https://docs.almena.app/es/github_flow/</loc>
+        <lastmod>2025-06-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://docs.almena.app/es/github_flow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.almena.app/github_flow/"/>
+    </url>
+    <url>
+        <loc>https://docs.almena.app/es/</loc>
+        <lastmod>2025-06-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://docs.almena.app/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.almena.app/"/>
+    </url>
+</urlset>
